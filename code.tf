@@ -30,3 +30,5 @@ resource "aws_iam_role_policy" "bedrock_agent" {
     }]
   })
 }
+
+#make changes to trigger documentation
